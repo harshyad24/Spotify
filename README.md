@@ -2,7 +2,8 @@
 
 A comprehensive Spotify analytics dashboard that provides deep insights into music streaming data with interactive visualizations and detailed track information. Built with a sleek green interface matching Spotify's design language.
 
-![Dashboard Preview](Dashboard.png)
+https://github.com/user-attachments/assets/8115301d-7ff7-4260-9608-b3240f0afeae
+
 
 ## 🎵 Features
 
@@ -92,7 +93,7 @@ Before running this project, make sure you have:
    - Compare track performance across different streaming platforms
 5. **Track Details**: Click on tracks to see detailed audio features and metadata
 6. **Cross-Platform Insights**: Compare how tracks perform on Spotify, Apple Music, and Deezer playlists
-
+![Dashboard Preview](Dashboard.png)
 ## 📊 Dashboard Components
 
 ### Main Statistics Panel
